@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">75</string>
+    <string-array name="strList">
+        <item>Белый</item>
+        <item>Синий</item>
+        <item>Красный</item>
+        <item>Зеленый</item>
+        <item>Черный</item>
+    </string-array>
+
+</resources>
